@@ -3,7 +3,11 @@ package bestiu;
 public class StringDemo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+			
+			String str="hello i am shaik suleman";
+			System.out.println(str);
+
 
 	}
 
